@@ -10,11 +10,11 @@ A comprehensive web application designed to streamline the leave management proc
 
 | Login Panel | Employee Dashboard |
 |:---:|:---:|
-| (<img width="1279" height="887" alt="Screenshot 2026-01-21 180828" src="https://github.com/user-attachments/assets/e30c0f10-cdab-4c97-8145-299d16f2f4c1" />) | (<img width="1279" height="886" alt="Screenshot 2026-01-21 180859" src="https://github.com/user-attachments/assets/a007189f-42ae-4b2a-8376-b159b45e7782"/>) |
+| <img width="1279" height="887" alt="Screenshot 2026-01-21 180828" src="https://github.com/user-attachments/assets/e30c0f10-cdab-4c97-8145-299d16f2f4c1" /> | <img width="1279" height="886" alt="Screenshot 2026-01-21 180859" src="https://github.com/user-attachments/assets/a007189f-42ae-4b2a-8376-b159b45e7782"/> |
 
 | Apply Leave | Admin Dashboard |
 |:---:|:---:|
-| ![Apply Form](<img width="1279" height="879" alt="Screenshot 2026-01-21 181042" src="https://github.com/user-attachments/assets/3eaffee3-0606-4a47-9f7c-1dd847288756" />) | ![Admin Panel](<img width="1279" height="880" alt="Screenshot 2026-01-21 181105" src="https://github.com/user-attachments/assets/def93bf3-d004-4181-87fb-d57d4692c1e8" />) |
+| <img width="1279" height="879" alt="Screenshot 2026-01-21 181042" src="https://github.com/user-attachments/assets/3eaffee3-0606-4a47-9f7c-1dd847288756" /> | <img width="1279" height="880" alt="Screenshot 2026-01-21 181105" src="https://github.com/user-attachments/assets/def93bf3-d004-4181-87fb-d57d4692c1e8" /> |
 
 *(Note: Please upload screenshots to a 'screenshots' folder in your repo or update these links)*
 
