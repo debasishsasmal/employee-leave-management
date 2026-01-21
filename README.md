@@ -2,7 +2,7 @@
 
 A comprehensive web application designed to streamline the leave management process for organizations. It features role-based access control, allowing employees to apply for leaves and managers (admins) to approve or reject them seamlessly.
 
-🚀 **Live Demo:** [PASTE_NETLIFY_LINK_HERE](https://cosmic-profiterole-7ca80c.netlify.app/)
+🚀 **Live Demo:** (https://cosmic-profiterole-7ca80c.netlify.app/)
 
 ---
 
